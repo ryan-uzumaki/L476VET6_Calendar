@@ -1,0 +1,1 @@
+l476vet6_calendar\startup_stm32l476xx.o: startup_stm32l476xx.s
